@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 psp = "0.3.1"
-deno_core = "0.147.0"
+# deno_core = "0.147.0"
